@@ -1,0 +1,24 @@
+
+{
+  "name": "ZenPlan AI",
+  "short_name": "ZenPlan",
+  "description": "Smart daily planning and habit tracking",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#22c55e",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/ios-filled/512/22c55e/journal--v1.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://img.icons8.com/ios-filled/192/22c55e/journal--v1.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}

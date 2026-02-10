@@ -1,0 +1,8 @@
+
+{
+  "name": "ZenPlan AI",
+  "description": "A sophisticated daily planner that combines task management, habit tracking, and AI-powered scheduling using Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
