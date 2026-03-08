@@ -1,7 +1,7 @@
 
 {
-  "name": "ZenPlan AI",
-  "short_name": "ZenPlan",
+  "name": "Daily Planner",
+  "short_name": "Plan Today",
   "description": "Smart daily planning and habit tracking",
   "start_url": "./index.html",
   "display": "standalone",
